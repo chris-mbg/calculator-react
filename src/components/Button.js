@@ -1,9 +1,9 @@
 import {button} from '../css/Button.module.css'
 
-const Button = () => {
+const Button = ({data}) => {
   return (
     <div className={button}>
-      <span>Value</span>
+      <span>{data}</span>
     </div>
   );
 }
