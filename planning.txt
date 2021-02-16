@@ -1,0 +1,10 @@
+Vad behövs? Vilka features?
+
+- Home-komponent som visar själva miniräknaren (renderar ut miniräknaren). Home.js
+- Calculator-komponent, som är själva miniräknaren. Calculator.js
+    - Display-komponent som innehåller data-input:en, Display.js
+    - En komponent som innehåller knappsatsen, ButtonContainer.js
+      - Varje knapp är en egen komponent (16 st), Button.js
+- Någon form av Context som håller reda på vilka knappar som trycks och värden som skrivs in i displayen. Ska göra uträkningslogiken/datahanteringen. DataContext.js
+
+Kan även planera styling osv.. Detta mkt enkel planering
