@@ -1,0 +1,11 @@
+.home {
+  padding-top: 4rem;
+}
+
+.wrapper {
+  background: darkslategray;
+  border-radius: 20px;
+  height: 500px;
+  margin: 0 auto;
+  width: 400px;
+}

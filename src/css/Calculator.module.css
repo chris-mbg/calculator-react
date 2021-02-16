@@ -1,0 +1,6 @@
+.calculator {
+  display: grid;
+  grid-template-rows: 20% 80%;
+  height: 100%;
+  width: 100%;
+}
